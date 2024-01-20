@@ -10,6 +10,7 @@ export default function Home() {
         <Link href={"/profile"} className="flex flex-wrap m-1 text-xl  text-slate-50">Profile</Link>
         <Link href={"/products"} className="flex flex-wrap m-1 text-xl  text-slate-50">Products</Link>
         <Link href={"/blog"} className="flex flex-auto text-xl  text-slate-50">Blog</Link>
+        <Link href={"/photo-feed"} className="flex flex-auto text-xl  text-slate-50">Photos</Link>
         </nav>
     </main>
   )
